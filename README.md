@@ -12,17 +12,17 @@ Take and edit a photo in HoloLens.
 ![](./Pictures/6.jpg)  
 
 ### Usage ###
-1.air tap to take a photo
+1.Air tap to take a photo
 ![](./Pictures/1.jpg)  
 
-2.after taking a photo, will see the photo and the edit menu
+2.After taking a photo, will see the photo and the edit menu
 ![](./Pictures/2.jpg)  
 
-3.select the move tool, the crop box will show, you can drag the crop box to move it.
+3.Select the move tool, the crop box will show, you can drag the crop box to move it.
 ![](./Pictures/3.jpg)  
 
-4.select the resize tool, you can drag the crop box to resize it.
+4.Select the resize tool, you can drag the crop box to resize it.
 ![](./Pictures/4.jpg)  
 
-5.click the done button to finish editting a photo.
+5.Click the done button to finish editting a photo.
 ![](./Pictures/5.jpg)
